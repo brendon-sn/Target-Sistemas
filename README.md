@@ -3,7 +3,7 @@ Prova Técnica
 
 <br><br>
 
-<br> Respostas: 
+Respostas: <br>
 
 Questão 1 - 91
 
