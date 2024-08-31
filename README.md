@@ -1,10 +1,9 @@
 # Target-Sistemas
 Prova Técnica
 
-<br><br>
+<br>
 
 Respostas: 
-<br>
 
 Questão 1 - 91
 
